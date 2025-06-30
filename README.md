@@ -1,4 +1,4 @@
-# Eventos Tech LGBT+
+# Eventos Tech LGBT+ 🏳️‍🌈🏳️‍⚧️
 
 Repositório colaborativo da comunidade Orgulho Tech com eventos LGBTs em tecnologia.
 
